@@ -22,4 +22,4 @@
 
 A signed record proves that nobody changed it after it was written. It does not prove that the decision was right.
 
-<sub>Made by CodeTonight (Pty) Ltd · V>>, with assistance of Claude Opus 5.5 · [codetonight.co.za](https://codetonight.co.za)</sub>
+<sub>© 2026 V>> • Lourens Cornelius Scheepers · CodeTonight (Pty) Ltd · [codetonight.co.za](https://codetonight.co.za)</sub>
